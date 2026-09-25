@@ -1,1 +1,1 @@
-hi my name is ashil mehbin
+# Battle file — used for Level 5 conflict quest. Do not edit until then.
